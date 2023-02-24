@@ -1,13 +1,7 @@
-# daivasmara.zsh-theme
-> Chill zsh-theme, personal take on smt
+# clean-daivasmara.zsh-theme
+> [*Daivasmara theme*](https://github.com/Daivasmara/daivasmara.zsh-theme) but with clean prompt symbols
 
-**明日は明日の風が吹く**: Tomorrow’s winds will blow tomorrow
-
-**あす**: Tomorrow
-
-![gif](./media/gif.gif)
-![ss](https://raw.githubusercontent.com/Daivasmara/daivasmara.zsh-theme/master/media/Screenshot%20from%202020-04-30%2016-12-27.png)
-
+### colors
 ```
 ! ~/.Xresource
 *.foreground:   #cbe3e7
@@ -47,26 +41,15 @@
 *.color15:      #a6b3cc
 
 ```
-* Font: [Anonymous Pro for Powerline Bold - 14pt](https://github.com/powerline/fonts)
-
-**NOTE:** These are the colors and font that I'm using. You don't necessarily need to set these up, you only need to if you want the looks to be exactly like the gif above.
+## fonts
+recommended fonts that looks good, pick one
+* Fira Code Nerd Font Mono
+* JetBrains Mono
+* Anonymous Pro for Powerline Bold
 
 ## Installation
 
 [https://github.com/ohmyzsh/ohmyzsh/wiki/Customization#overriding-and-adding-themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Customization#overriding-and-adding-themes)
 
-## Meta
-
-Daivasmara – [github](https://github.com/daivasmara) – daivasmara@gmail.com
-
-Distributed under the MIT license. See ``LICENSE`` for more information.
-
-[https://github.com/daivasmara/daivasmara.zsh-theme](https://github.com/Daivasmara/daivasmara.zsh-theme)
-
-## Contributing
-
-1. Fork it (<https://github.com/Daivasmara/daivasmara.zsh-theme/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+## License
+Distributed under the MIT license. [See ``LICENSE`` for more information.](/LICENSE)
